@@ -57,11 +57,11 @@ span {
     display: inline-block;
 }
 .profile {
-    width: 50%;
+    width: 30%;
     margin: 50px auto 50px auto;
 }
 .contact-me {
-    width: 50%;
+    width: 30%;
     margin: 50px auto 50px auto;
 }
 .skill-row {
